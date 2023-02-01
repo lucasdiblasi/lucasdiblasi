@@ -10,8 +10,12 @@ From Brazil but currently living in Portugal.
 
 - 📫 How to reach me **lucasdiblasi.ti@hotmail.com**
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiblasi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdiblasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 <div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
@@ -19,6 +23,12 @@ From Brazil but currently living in Portugal.
 </a> <a href="https://www.datadoghq.com/" target=_blank" rel"noreferrer"> <img alt="datadog" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"> 
 </a> <a href="https://www.rancher.com/" target=_blank" rel"noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
 </a> <a href="https://grafana.com/" target=_blank" rel"noreferrer"> <img alt="grafana" height="40" width="40" src="https://cdn.cdnlogo.com/logos/g/64/grafana.svg"> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
 </div>
 <div>
 <h3 align="left">Cloud:</h3>
@@ -41,13 +51,16 @@ From Brazil but currently living in Portugal.
 </a> <a href="https://jasmine.github.io/" target=_blank" rel"noreferrer"> <img alt="jasmine" height="40" width="40" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png">
 </a> <a href="https://www.artillery.io/" target=_blank" rel"noreferrer"> <img alt="artillery" height="40" width="40" src="https://pbs.twimg.com/profile_images/1253951574444924933/7mx_QMfY_400x400.jpg">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 
 </div>
   
   ##
  
 <div> 
-  <a href = "mailto:lucasdiblasi.ti@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-di-blasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<a href = "mailto:lucasdiblasi.ti@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lucas-di-blasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@lucasdiblasi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>   
 </div>
+
+![Snake animation](https://github.com/lucasdiblasi/lucasdiblasi/blob/output/github-contribution-grid-snake.svg)
