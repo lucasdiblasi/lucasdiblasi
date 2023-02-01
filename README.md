@@ -47,5 +47,4 @@ From Brazil but currently living in Portugal.
   
 </div>
 
-![Snake animation](https://github.com/lucasdiblasi/lucasdiblasi/blob/main/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/lucasdiblasi/lucasdiblasi/blob/output/github-contribution-grid-snake.svg)
