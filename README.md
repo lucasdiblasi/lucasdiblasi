@@ -10,11 +10,7 @@ From Brazil but currently living in Portugal.
 
 - 📫 How to reach me **lucasdiblasi.ti@hotmail.com**
 
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiblasi&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdiblasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![snake gif](https://github.com/lucasdiblasi/lucasdiblasi/blob/output/github-contribution-grid-snake.gif)
 
 
 <div style="display: inline_block"><br>
@@ -62,5 +58,10 @@ From Brazil but currently living in Portugal.
 <a href="https://www.linkedin.com/in/lucas-di-blasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://medium.com/@lucasdiblasi" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>   
 </div>
+  
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiblasi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdiblasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
-![Snake animation](https://github.com/lucasdiblasi/lucasdiblasi/blob/output/github-contribution-grid-snake.svg)
