@@ -14,6 +14,9 @@ From Brazil but currently living in Portugal.
 <div style="display: inline_block"><br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target=_blank" rel"noreferrer"> <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+</a> <a href="https://www.datadoghq.com/" target=_blank" rel"noreferrer"> <img alt="datadog" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"> 
+</a> <a href="https://www.rancher.com/" target=_blank" rel"noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
+</a> <a href="https://grafana.com/" target=_blank" rel"noreferrer"> <img alt="grafana" height="40" width="40" src="https://cdn.cdnlogo.com/logos/g/64/grafana.svg"> 
 </div>
 <div>
 <h3 align="left">Cloud:</h3>
@@ -42,7 +45,7 @@ From Brazil but currently living in Portugal.
   ##
  
 <div> 
-  <a href = "mailto:lucasdiblasi.ti@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasdiblasi.ti@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-di-blasi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
