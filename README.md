@@ -10,9 +10,11 @@
 - 📫 How to reach me **lucasdiblasi.ti@hotmail.com**
 
 <div>
-<a href="https://github.com/lucasdiblasi">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdiblasi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiblasi&layout=compact&langs_count=7&theme=dracula"/>
+  
+
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lucasdiblasi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucasdiblasi/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiblasi&hide_progress=true)](https://github.com/lucasdiblasi/github-readme-stats)
+
 </div>
   
  ##  
