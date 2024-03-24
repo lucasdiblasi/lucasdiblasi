@@ -20,18 +20,26 @@
  ##  
 
 <div style="display: inline_block"><br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjRw46M-Kn-AhVfFdQBHdohBCIYABAAGgJvYQ&ohost=www.google.com&cid=CAESa-D2Z9aK2YTkgXsIgdsPSszRqdYVyDdsGG8FlMFPdUE9y7YktfeEyRMq5B9QBF0vkgt0pF2utQjMYsO7Jc9wdPiTcmlgXkHzxa23z_F7t13LaL5lFkuFWBwfLhSFP7jJQiFHPcDR9BxUP68I&sig=AOD64_3rWBCUX8zi8EZ6qcQwbLgEiJQG-A&q&adurl&ved=2ahUKEwifmoOM-Kn-AhXCq5UCHTSRDuMQ0Qx6BAgGEAE" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target=_blank" rel"noreferrer"> <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-</a> <a href="https://www.datadoghq.com/" target=_blank" rel"noreferrer"> <img alt="datadog" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"> 
-</a> <a href="https://www.rancher.com/" target=_blank" rel"noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
-</a> <a href="https://grafana.com/" target=_blank" rel"noreferrer"> <img alt="grafana" height="40" width="40" src="https://cdn.cdnlogo.com/logos/g/64/grafana.svg"> 
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjRw46M-Kn-AhVfFdQBHdohBCIYABAAGgJvYQ&ohost=www.google.com&cid=CAESa-D2Z9aK2YTkgXsIgdsPSszRqdYVyDdsGG8FlMFPdUE9y7YktfeEyRMq5B9QBF0vkgt0pF2utQjMYsO7Jc9wdPiTcmlgXkHzxa23z_F7t13LaL5lFkuFWBwfLhSFP7jJQiFHPcDR9BxUP68I&sig=AOD64_3rWBCUX8zi8EZ6qcQwbLgEiJQG-A&q&adurl&ved=2ahUKEwifmoOM-Kn-AhXCq5UCHTSRDuMQ0Qx6BAgGEAE" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/flutter-3629369-3032362.png" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target=_blank" rel"noreferrer"> <img alt="typescript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/c-sharp-adesivo-sticker.png" alt="amplify" width="40" height="40"/> </a>
+<a href="https://tip.golang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" alt="amplify" width="40" height="40"/> </a>
+
+
+</div>
+<div>
+<h3 align="left">Databases and Tools:</h3>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
+</a> <a href="https://www.datadoghq.com/" target=_blank" rel"noreferrer"> <img alt="datadog" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/datadog.svg"> 
+</a> <a href="https://www.rancher.com/" target=_blank" rel"noreferrer"> <img alt="rancher" height="40" width="40" src="https://rancher.com/docs/img/logo-square.png"> 
+</a> <a href="https://grafana.com/" target=_blank" rel"noreferrer"> <img alt="grafana" height="40" width="40" src="https://cdn.cdnlogo.com/logos/g/64/grafana.svg"> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+  
 </div>
 <div>
 <h3 align="left">Cloud:</h3>
@@ -42,7 +50,8 @@
 <div>
 <h3 align="left">CI/CD:</h3>
 </a> <a href="https://www.jenkins.io/" target=_blank" rel"noreferrer"> <img alt="jenkins" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png">
-</a> <a href="https://buildkite.com/" target=_blank" rel"noreferrer"> <img alt="buildkite" height="40" width="40" src="https://yt3.googleusercontent.com/Z36Him8Mdeh9JLbydICts72F0khLtYg1jgRMWQ0pnNhhuEcFqt7K6yUcSSwBgbsst7VEPtLdOQ=s900-c-k-c0x00ffffff-no-rj">
+</a> <a href="https://buildkite.com/" target=_blank" rel"noreferrer"> <img alt="buildkite" height="40" width="40" src="https://img.stackshare.io/service/577/default_2d19e0c5c214c1ba5cd484c8463d7dfe88eb2328.png">
+</a> <a href="https://azure.microsoft.com/pt-br/products/devops" target=_blank" rel"noreferrer"> <img alt="buildkite" height="40" width="40" src="https://apptest.ai/wp-content/uploads/2019/08/azure-devops-icon.png">
 </div>
 <div>
 <h3 align="left">Testing Tools:</h3>
@@ -52,7 +61,7 @@
 </a> <a href="https://jestjs.io/pt-BR/" target=_blank" rel"noreferrer"> <img alt="jest" height="40" width="40" src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"> </a> <a href="https://www.postman.com/" target=_blank" rel"noreferrer"> <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <a href="https://insomnia.rest/download" target=_blank" rel"noreferrer"> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <a href="https://jasmine.github.io/" target=_blank" rel"noreferrer"> <img alt="jasmine" height="40" width="40" src="https://seeklogo.com/images/J/jasmine-logo-1A0FA4D537-seeklogo.com.png">
-</a> <a href="https://www.artillery.io/" target=_blank" rel"noreferrer"> <img alt="artillery" height="40" width="40" src="https://pbs.twimg.com/profile_images/1253951574444924933/7mx_QMfY_400x400.jpg">
+</a> <a href="" target=_blank" rel"noreferrer"> <img alt="artillery" height="40" width="40" src="https://avatars.githubusercontent.com/u/2678858?s=280&v=4">
 </a> <a href="https://www.cypress.io/" target=_blank" rel"noreferrer"> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 
